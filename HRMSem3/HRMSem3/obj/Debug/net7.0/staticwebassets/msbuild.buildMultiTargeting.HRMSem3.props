@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HRMSem3.props" />
+</Project>
